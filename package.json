@@ -1,0 +1,8 @@
+{
+  "name": "news-image-20261118-v2-entry",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  }
+}
